@@ -1,0 +1,84 @@
+/*--------------------------------------------------------------
+# Customize
+--------------------------------------------------------------*/
+#accordion-section-lotus_pro h3.accordion-section-title{
+    background: #ee9982;
+    color: #FFFFFF;
+}
+.customizer-mc-btn {
+    display: block;
+    padding: 10px;
+    background: #ee9982;
+    color: #ffffff;
+    border-radius: 3px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
+.customizer-mc-btn:hover {
+    color: #ffffff;
+}
+.customizer-mc-list {
+    padding: 30px 20px;
+    border-radius: 3px;
+    background: #fff;
+}
+.customizer-mc-ul {
+    margin-bottom: 20px;
+}
+.customizer-mc-ul li {
+    margin-bottom: 15px;
+    padding-left: 38px;
+    position: relative;
+}
+.customizer-mc-ul li:before {
+    content: "+";
+    background: #d6d6d6;
+    border-radius: 2px;
+    margin-right: 10px;
+    padding: 2px 10px;
+    font-weight: bold;
+    font-size: 80%;
+    color: #ffffff;
+    position: absolute;
+    left: 0px;
+    text-align: center;
+}
+
+
+.pokama-pro-description span:before {
+    content: "+";
+    color: #d55;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5px;
+}
+.pokama-pro-description span{
+    display: block;
+    margin-top: 5px;
+}
+.pokama-pro-description .pokama-buy-button{
+    background-color: #82b440;
+    box-shadow: 0 2px 0 #6f9a37;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+    width: 80%;
+}
+#accordion-section-pokama_pro .accordion-section-title{
+    background-color: #8dc740;
+    color: #fff;
+}
+#accordion-section-pokama_pro .accordion-section-title:after{
+    color: #fff;
+}
+#accordion-section-pokama_pro .accordion-section-title:hover{
+    background-color: #a1da55 !important;
+    color: #fff !important;
+}

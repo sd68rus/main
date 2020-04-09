@@ -1,0 +1,279 @@
+# Translation of Plugins - Bootstrap Blocks - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Bootstrap Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-18 13:55:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Bootstrap Blocks - Stable (latest release)\n"
+
+#: src/button/edit.js:63
+msgid "Change button alignment"
+msgstr "Изменить выравнивание кнопок"
+
+#: src/button/block.js:25
+msgid "Bootstrap Button"
+msgstr "Bootstrap Кнопка"
+
+#: src/container/block.js:112
+msgid "Margin"
+msgstr "Отступ снаружи"
+
+#: src/container/block.js:106
+msgid "Fluid breakpoints only work with Bootstrap v4.4+. The container will be 100% wide until the specified breakpoint is reached, after which max-widths for each of the higher breakpoints will be applied."
+msgstr "Точки остановки растянутого контейнера работают только с Bootstrap v4.4 +. Контейнер будет иметь ширину 100%, пока не будет достигнута указанная точка остановки, после чего будет применена максимальная ширина для каждой из более высоких точек остановки."
+
+#: src/container/block.js:94
+msgid "Fluid Breakpoint"
+msgstr "Точка остановки для растянутого контейнера"
+
+#: src/container/block.js:69
+msgid "Bootstrap Container"
+msgstr "Bootstrap Контейнер"
+
+#: src/container/block.js:57
+msgid "Sm"
+msgstr "Sm"
+
+#: src/container/block.js:53
+msgid "Md"
+msgstr "Md"
+
+#: src/container/block.js:49
+msgid "Lg"
+msgstr "Lg"
+
+#: src/container/block.js:45
+msgid "Xl"
+msgstr "Xl"
+
+#: src/container/block.js:41
+msgid "No breakpoint selected"
+msgstr "Точка остановки не выбрана"
+
+#: src/column/block.js:18
+msgid "Bootstrap Column"
+msgstr "Bootstrap Столбец"
+
+#: src/column/edit.js:187
+msgid "Xl equal-width"
+msgstr "Xl равной ширины"
+
+#: src/column/edit.js:177
+msgid "Xl Column count"
+msgstr "Xl количество столбцов"
+
+#: src/column/edit.js:166
+msgid "Lg equal-width"
+msgstr "Lg равной ширины"
+
+#: src/column/edit.js:156
+msgid "Lg Column count"
+msgstr "Lg Количество столбцов"
+
+#: src/column/edit.js:145
+msgid "Md equal-width"
+msgstr "Md равной ширины"
+
+#: src/column/edit.js:135
+msgid "Md Column count"
+msgstr "Md Количество столбцов"
+
+#: src/column/edit.js:124
+msgid "Sm equal-width"
+msgstr "Sm равной ширины"
+
+#: src/column/edit.js:114
+msgid "Sm Column count"
+msgstr "Sm количество столбцов"
+
+#: src/column/edit.js:103
+msgid "Xs equal-width"
+msgstr "Xs равной ширины"
+
+#: src/column/edit.js:93
+msgid "Xs Column count"
+msgstr "Xs количество столбцов"
+
+#: src/row/block.js:18
+msgid "Bootstrap Row"
+msgstr "Bootstrap Row"
+
+#: src/row/edit.js:328
+msgid "Change vertical alignment of columns"
+msgstr "Изменить вертикальное выравнивание столбцов"
+
+#: src/row/edit.js:317
+msgid "Change horizontal alignment of columns"
+msgstr "Изменить горизонтальное выравнивание столбцов"
+
+#: src/row/edit.js:270
+msgid "Change layout"
+msgstr "Изменить макет"
+
+#: src/row/edit.js:303
+msgid "Row options"
+msgstr "Опции Row"
+
+#: src/row/edit.js:306
+msgid "No Gutters"
+msgstr "Без отступов"
+
+#: src/row/edit.js:261
+msgid "Align columns bottom"
+msgstr "Выровнять столбцы по низу"
+
+#: src/row/edit.js:251
+msgid "Align columns top"
+msgstr "Выровнять столбцы по верху"
+
+#: src/row/edit.js:243
+msgid "Align columns right"
+msgstr "Выровнять столбцы по правому краю"
+
+#: src/row/edit.js:238 src/row/edit.js:256
+msgid "Align columns center"
+msgstr "Выровнять столбцы по центру"
+
+#: src/row/edit.js:233
+msgid "Align columns left"
+msgstr "Выровнять столбцы по левому краю"
+
+#: src/row/block.js:13 src/row/block.js:17
+msgid "Row"
+msgstr "Row"
+
+#: src/row/edit.js:179
+msgid "Custom"
+msgstr "Кастом"
+
+#: src/row/edit.js:131
+msgid "3 Columns (1:1:1)"
+msgstr "3 Столбца (1:1:1)"
+
+#: src/row/edit.js:98
+msgid "2 Columns (2:1)"
+msgstr "2 Столбца (2:1)"
+
+#: src/row/edit.js:65
+msgid "2 Columns (1:2)"
+msgstr "2 Столбца (1:2)"
+
+#: src/row/edit.js:32
+msgid "2 Columns (1:1)"
+msgstr "2 Столбца (1:1)"
+
+#: src/column/edit.js:254
+msgid "Size"
+msgstr "Размер"
+
+#: src/column/edit.js:247
+msgid "Padding (inside column)"
+msgstr "Отступ (внутри столбца)"
+
+#: src/column/edit.js:239
+msgid "This setting only applies if there is no vertical alignment set on the parent row block."
+msgstr "Этот параметр применяется только в том случае, если вертикальное выравнивание не установлено в родительском блоке Row."
+
+#: src/column/edit.js:229
+msgid "Center content vertically in row"
+msgstr "Центрировать содержимое вертикально в Row"
+
+#: src/column/edit.js:198
+msgid "Background color"
+msgstr "Цвет фона"
+
+#. Author of the plugin
+msgid "Liip AG"
+msgstr "Liip AG"
+
+#: src/container/block.js:114
+msgid "Margin After"
+msgstr "Отступ после"
+
+#: src/container/block.js:85 src/container/block.js:87
+msgid "Fluid"
+msgstr "Растянутый"
+
+#: src/container/block.js:64 src/container/block.js:68
+msgid "Container"
+msgstr "Контейнер"
+
+#: src/container/block.js:33 src/column/edit.js:50
+msgid "None"
+msgstr "Нет"
+
+#: src/container/block.js:22 src/column/edit.js:53
+msgid "Large"
+msgstr "Большой"
+
+#: src/container/block.js:18 src/column/edit.js:52
+msgid "Medium"
+msgstr "Средний"
+
+#: src/container/block.js:14 src/column/edit.js:51
+msgid "Small"
+msgstr "Маленький"
+
+#: src/column/edit.js:89
+msgid "Column size"
+msgstr "Размер столбца"
+
+#: src/column/block.js:13 src/column/block.js:17
+msgid "Column"
+msgstr "Столбец"
+
+#: src/button/edit.js:87
+msgid "Apply"
+msgstr "Применить"
+
+#: src/button/edit.js:51
+msgid "Style"
+msgstr "Стили"
+
+#: src/button/edit.js:24
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: src/button/edit.js:22
+msgid "Primary"
+msgstr "Основной"
+
+#: src/container/block.js:70 src/row/block.js:19 src/button/block.js:26
+#: src/column/block.js:19
+msgid "Bootstrap"
+msgstr "Bootstrap"
+
+#: src/button/block.js:13 src/button/block.js:24
+msgid "Button"
+msgstr "Кнопка"
+
+#. translators: %s template
+#: src/wp-bootstrap-blocks-functions.php:24
+msgid "%s does not exist."
+msgstr "%s не существует."
+
+#: src/class-wp-bootstrap-blocks.php:258 src/class-wp-bootstrap-blocks.php:265
+msgid "Cheatin&#8217; huh?"
+msgstr "Эй! Жульничаем?!"
+
+#. Author URI of the plugin
+msgid "https://liip.ch"
+msgstr "https://liip.ch"
+
+#. Description of the plugin
+msgid "Bootstrap 4 Gutenberg Blocks for WordPress."
+msgstr "Bootstrap 4 Gutenberg Blocks for WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/liip/bootstrap-blocks-wordpress-plugin"
+msgstr "https://github.com/liip/bootstrap-blocks-wordpress-plugin"
+
+#. Plugin Name of the plugin
+#: src/class-wp-bootstrap-blocks.php:208
+msgid "Bootstrap Blocks"
+msgstr "Bootstrap Блоки"

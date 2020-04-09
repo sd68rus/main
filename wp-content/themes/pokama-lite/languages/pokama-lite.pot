@@ -1,0 +1,297 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-04 17:42+0700\n"
+"PO-Revision-Date: 2019-07-30 15:39+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:51
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:43
+#, php-format
+msgid "Copyright %1$s %2$s %3$s  - All Rights Reserved"
+msgstr ""
+
+#: footer.php:44
+#, php-format
+msgid "%1$s Designed by %2$s"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary"
+msgstr ""
+
+#: functions.php:157 inc/customizer.php:31
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:159
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:166
+msgid "Instagram Footer"
+msgstr ""
+
+#: functions.php:172
+msgid ""
+"Use the \"Instagram\" widget here. IMPORTANT: For best result set number of "
+"photos to 6."
+msgstr ""
+
+#: functions.php:176
+msgid "Footer Position 1"
+msgstr ""
+
+#: functions.php:182
+msgid "Add widgets to show widgets at Footer Position 1"
+msgstr ""
+
+#: functions.php:185
+msgid "Footer Position 2"
+msgstr ""
+
+#: functions.php:191
+msgid "Add widgets to show widgets at Footer Position 2"
+msgstr ""
+
+#: functions.php:194
+msgid "Footer Position 3"
+msgstr ""
+
+#: functions.php:200
+msgid "Add widgets to show widgets at Footer Position 3"
+msgstr ""
+
+#: functions.php:203
+msgid "Footer Position 4"
+msgstr ""
+
+#: functions.php:209
+msgid "Add widgets to show widgets at Footer Position 4"
+msgstr ""
+
+#: header.php:33
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Disable Sidebar on Home Page, Archive Page"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Disable Sidebar on Single Post"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Disable Sidebar on Single Page"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Remove except on Homepage"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Featured Bar(Under Header)"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Enable Featured Bar(Under Header)"
+msgstr ""
+
+#: inc/customizer.php:122 inc/dashboard.php:84
+msgid "Upgrade to Pokama Pro"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Pokama Features"
+msgstr ""
+
+#: inc/dashboard.php:11
+#, php-format
+msgid "%s Theme Dashboard"
+msgstr ""
+
+#: inc/dashboard.php:11
+#, php-format
+msgid "%s theme"
+msgstr ""
+
+#: inc/dashboard.php:48
+#, php-format
+msgid "Welcome to %1s - Version %2s"
+msgstr ""
+
+#: inc/dashboard.php:50
+msgid ""
+"Pokama Lite is a Responsive WordPress Magazine Theme. Pokama Lite is "
+"excellent for news, newspapers, magazines, blogs and publishing. The theme "
+"is a perfect combination of beautiful and professional."
+msgstr ""
+
+#: inc/dashboard.php:56
+msgid "Free vs PRO"
+msgstr ""
+
+#: inc/dashboard.php:57
+msgid "Contribute"
+msgstr ""
+
+#: inc/dashboard.php:65
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/dashboard.php:67
+#, php-format
+msgid ""
+"%s supports the Theme Customizer for all theme settings. Click \"Customize\" "
+"to start customize your site."
+msgstr ""
+
+#: inc/dashboard.php:70
+msgid "Start Customize"
+msgstr ""
+
+#: inc/dashboard.php:74
+msgid "Having Trouble, Need Support?"
+msgstr ""
+
+#: inc/dashboard.php:76
+#, php-format
+msgid ""
+"Support for %s WordPress theme is conducted through ZThemes Studio support "
+"ticket system."
+msgstr ""
+
+#: inc/dashboard.php:79
+msgid "Create a support ticket"
+msgstr ""
+
+#: inc/dashboard.php:80
+msgid "Pokama lite Documentation"
+msgstr ""
+
+#: inc/dashboard.php:86
+msgid ""
+"Our #1 blogging WordPress theme with premium features designed for bloggers "
+"and content lovers."
+msgstr ""
+
+#: inc/dashboard.php:106
+msgid ""
+"Are you a polyglot? Want to translate Pokamalite into your own language?"
+msgstr ""
+
+#: inc/dashboard.php:107
+msgid "Get involved at WordPress.org."
+msgstr ""
+
+#: inc/dashboard.php:109
+msgid "Translate Pokamalite"
+msgstr ""
+
+#: inc/dashboard.php:115
+msgid "Are you enjoying Pokamalite theme?"
+msgstr ""
+
+#: inc/dashboard.php:116
+#, php-format
+msgid "Rate our theme on %1s. We'd really appreciate it!"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:19
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:23
+msgid "Page"
+msgstr ""
